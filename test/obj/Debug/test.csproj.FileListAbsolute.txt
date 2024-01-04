@@ -1,0 +1,17 @@
+C:\Users\phamn\OneDrive\Máy tính\LT.NET\test\test\bin\Debug\test.exe.config
+C:\Users\phamn\OneDrive\Máy tính\LT.NET\test\test\bin\Debug\test.exe
+C:\Users\phamn\OneDrive\Máy tính\LT.NET\test\test\bin\Debug\test.pdb
+C:\Users\phamn\OneDrive\Máy tính\LT.NET\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\phamn\OneDrive\Máy tính\LT.NET\test\test\obj\Debug\test.Form1.resources
+C:\Users\phamn\OneDrive\Máy tính\LT.NET\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\phamn\OneDrive\Máy tính\LT.NET\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\phamn\OneDrive\Máy tính\LT.NET\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\phamn\OneDrive\Máy tính\LT.NET\test\test\obj\Debug\test.exe
+C:\Users\phamn\OneDrive\Máy tính\LT.NET\test\test\obj\Debug\test.pdb
+C:\Users\phamn\OneDrive\Máy tính\Thư mục mới (2)\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\phamn\OneDrive\Máy tính\Thư mục mới (2)\test\obj\Debug\test.Form1.resources
+C:\Users\phamn\OneDrive\Máy tính\Thư mục mới (2)\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\phamn\OneDrive\Máy tính\Thư mục mới (2)\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\phamn\OneDrive\Máy tính\Thư mục mới (2)\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\phamn\OneDrive\Máy tính\Thư mục mới (2)\test\obj\Debug\test.exe
+C:\Users\phamn\OneDrive\Máy tính\Thư mục mới (2)\test\obj\Debug\test.pdb
